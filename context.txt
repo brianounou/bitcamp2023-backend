@@ -1,0 +1,10 @@
+3 outputs:
+
+housing advice: sell your house move to apartment, if time use API to give good location to move
+debt management: if you should sell assets to clear capital one credit card debt
+financial stability: the degree of resilience or ability to withstand financial hardship in the event of unforeseen circumstances.
+
+
+Credit Card Debt, Mortgage, Assets, Recurring Liabilities, Unemployment Benefits, Loans/ other debt
+
+How the algorithm will work for each of these:
