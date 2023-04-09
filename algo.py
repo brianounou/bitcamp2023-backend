@@ -45,11 +45,8 @@ def credit_card_advice(credit_card_debt, assets):
         print("Your credit card debt is more than 30% of your assets. This is an urgent situation and you should take immediate action to pay off your debt. Consider seeking the help of a credit counseling agency or debt settlement firm to help you negotiate with your creditors and lower your interest rates.")
 
 # Take input from the user
-credit_card_debt = float(input("Enter your credit card debt: "))
-assets = float(input("Enter your assets: "))
 
 # Call the function with user input
-credit_card_advice(credit_card_debt, assets)
 
 
 def financial_stability_advice(assets, monthly_expenses):
@@ -76,8 +73,5 @@ def financial_stability_advice(assets, monthly_expenses):
         print(f"Based on your current assets and monthly expenses, you have approximately {months_remaining} months until you exhaust all available financial resources. You should take immediate and extreme measures to reduce your expenses and increase your income, such as seeking financial assistance or declaring bankruptcy. Running low on financial assets.")
 
 # Take input from the user
-assets = float(input("Enter your assets: "))
-monthly_expenses = float(input("Enter your monthly expenses: "))
 
 # Call the function with user input
-financial_stability_advice(assets, monthly_expenses)
